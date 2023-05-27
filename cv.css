@@ -1,0 +1,21 @@
+
+#container{
+
+    background-color: blue;
+    color:red;
+
+}
+
+body{
+
+    background:yellow;
+}
+
+.parrafo{
+    color: rgb(43, 226, 83);
+}
+
+.skills{
+
+    font-size: 200%;
+}
